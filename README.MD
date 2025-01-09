@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/SintetizadoElevenLabs_Charles.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -38,13 +38,31 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [LeonardoAI](https://app.leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Título e Roteiro gerado via prompts para chatgpt
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast e vamos criar um podcast de tecnologia focado em Phyton para iniciantes e eu gostaria de sua ajuda sua para criar 9 sugestões de nomes criativos para um podcast de Phyton feito por nerds para atrair o público iniciante e que tenha algum trocadilho NERD no nome. O podcast vai falar sobre dicas sobre o mundo do Phyton para quem está iniciando na linguagem e o que está acontecendo no mercado. {REGRAS} O nome deve ser impactante e ter um nome e um subtítulo O nome tenha algum trocadilho NERD com o nome de franquias conhecidas como harry potter , star wars ou senhor dos anéis mas pode envolver franquias mais antigas O nome deva conter alguma palavra forte que remeta ao tema {PROMPTS NEGATIVOS} Não quero que o título contenha palavras em inglês  Não quero nomes que não sejam marcantes. |
+| conteúdo | Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia, focado em Phyton cujo o nome é “A Câmara da Serpente: Descubra os mistérios do Python e suas oportunidades. ” e tem foco em programação, com o público alvo de iniciantes em programação Phyton O formato do reoteido deve ser [INTRODUÇÃO] [CURIOSIDADE1] [CURIOSIDADE2] [FINALIZAÇÃO] {REGRAS} •	No bloco [INTRODUÇÃO] substitua por uma introdução igual as introduções dos vídeos do canal ‘ei nerd’, como se fossem escritos pelo Peter Jordan •	No bloco [CURIOSIDADE1] substitua por uma curiosidade de utilização do Phyton •	No bloco [CURIOSIDADE2] sobre uma ferramenta para Python •	No bloco [FINALIZAÇÃO] substitua por uma despedida cool com dinal ‘Eu sou Charles e esse foi o PhytonQuest dessa semana’ •	Use termos de fácil explicação •	O podcast vai ser apresentado somente por uma pessoa, chamada Charles •	O podcast deve ser curto {REGRAS NEGATIVAS} •	Não use muitos termos técnicos •	Não ultrapasse 7 minutos de duração  |
+
+
+LeonardoAI：
+
+|  Ação  | prompt                                                                                 |
+| :----: | -------------------------------------------------------------------------------------- |
+| título | Hyperrealistic image of a half-man half-green serpent with black glasses, matrix stile, inside a cave lookin to the camera and behind him matrix codes |
+
+
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
