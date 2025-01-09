@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/CharlesCapaByLeonardo_hybrid_creature.jpg"
     width="300"
 />
 </p>
@@ -62,14 +62,13 @@ LeonardoAI：
 | :----: | -------------------------------------------------------------------------------------- |
 | título | Hyperrealistic image of a half-man half-green serpent with black glasses, matrix stile, inside a cave lookin to the camera and behind him matrix codes |
 
-
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- Tentamos Midjourney Para gerar capas porém não foi possivel em virtude da opção de criação estar descontinuada na versão free por isso Utilizamos LeonardoAI para gerar imagens.
 
 ## 📚 Materiais
 
-- [Link da live no Youtube](https://www.youtube.com)
+- [Link da live original no Youtube](https://www.youtube.com)
 - [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
@@ -78,9 +77,9 @@ LeonardoAI：
 
 Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 1. Use os prompts de roteiro no `chagpt` ( concluido com sucesso )
+- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs` ( concluido com sucesso )
+- 🤖 3. Use os prompts de artes no `midjourney` ( concluido com sucesso porém substituido pelo LeonardAI )
 
 ## 👨‍💻 Expert
 
@@ -114,4 +113,5 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode) e seu aluno [Charles Lima](https://github.com/Underdarkshadow)
+
