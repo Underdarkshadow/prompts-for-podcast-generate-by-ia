@@ -22,7 +22,7 @@
     preview do podcast
 
 <audio controls>
-  <source src="https://drive.google.com/file/d/1bR_Of4UM712BjnWaR_UPQC7oC3QARI-K/view?usp=sharing" type="audio/mp3">
+  <source src="./output/Podcast_editCharles.mp3" type="audio/mp3">
   Seu navegador não suporta o elemento de áudio.
 </audio>
 
