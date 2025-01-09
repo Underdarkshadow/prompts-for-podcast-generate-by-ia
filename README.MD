@@ -21,11 +21,9 @@
 <p align="center">
     preview do podcast
 
-<audio controls>
-  <source src="/output/Podcast_editCharles.MP3">
-  Seu navegador não suporta o elemento de áudio.
-</audio>
-
+  <source 
+         src="./output/Podcast_editCharles.MP3"
+/>
 
 # Projeto Podcast Gerado por I.A.s
 
