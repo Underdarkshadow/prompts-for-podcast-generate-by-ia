@@ -20,7 +20,10 @@
 
 <p align="center">
     preview do podcast
-<audio src="https://raw.githubusercontent.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/main/output/Podcast_editCharles.MP3" controls title="Podcast editado"></audio>
+
+<audio controls>
+  <source src="https://raw.githubusercontent.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/main/output/Podcast_editCharles.MP3" type="audio/mp3"></audio>
+
 
 # Projeto Podcast Gerado por I.A.s
 
