@@ -21,7 +21,7 @@
 <p align="center">
     preview do podcast
 
-  <source 
+  <audio 
          src="./output/Podcast_editCharles.MP3"
 />
 
