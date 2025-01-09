@@ -21,7 +21,7 @@
 <p align="center">
     preview do podcast
 
-https://github.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/blob/main/output/SintetizadoElevenLabs_Charles.mp3
+<audio src="https://github.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/blob/main/output/SintetizadoElevenLabs_Charles.mp3"/audio>
 
 
 # Projeto Podcast Gerado por I.A.s
