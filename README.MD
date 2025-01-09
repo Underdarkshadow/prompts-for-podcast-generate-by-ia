@@ -22,7 +22,9 @@
     preview do podcast
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/main/output/Podcast_editCharles.MP3" type="audio/mp3"></audio>
+  <source src="https://raw.githubusercontent.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/main/output/SintetizadoElevenLabs_Charles.mp3" type="audio/mpeg">
+  Seu navegador não suporta o elemento de áudio.
+</audio>
 
 
 # Projeto Podcast Gerado por I.A.s
