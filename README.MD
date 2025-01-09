@@ -21,7 +21,7 @@
 <p align="center">
     preview do podcast
 
-    <audio src="output/SintetizadoElevenLabs_Charles.MP3" controls title="Podcast editado"></audio>
+    output/SintetizadoElevenLabs_Charles.MP3
 
 # Projeto Podcast Gerado por I.A.s
 
