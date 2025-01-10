@@ -105,7 +105,7 @@ LeonardoAI：
 <br/><br/>
 <p>
 
-## 👨‍💻 Studant
+## 👋🤖 Student
 
 <p>
     <img 
