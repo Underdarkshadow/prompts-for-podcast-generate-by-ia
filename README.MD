@@ -105,6 +105,35 @@ LeonardoAI：
 <br/><br/>
 <p>
 
+## 👨‍💻 Studant
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://github.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/blob/main/assets/eu%20executivo.png"
+    />
+    <p>&nbsp&nbsp&nbspCharles Lima<br>
+    &nbsp&nbsp&nbsp
+    <a 
+        href="https://github.com/Underdarkshadow">
+        GitHub
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.linkedin.com/in/charles-lima-8a8b40338/">
+        LinkedIn
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="https://www.instagram.com/charles.lima.9889/">
+        Instagram
+    </a>
+    &nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 ---
 
 ⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode) e seu aluno [Charles Lima](https://github.com/Underdarkshadow)
