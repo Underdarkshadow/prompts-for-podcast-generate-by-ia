@@ -21,13 +21,7 @@
 <p align="center">
     preview do podcast
 
-<audio 
-    src="./output/Podcast_editCharles.MP3" 
-    controls 
-    title="Podcast editado">
-    Seu navegador não suporta o elemento de áudio.
-</audio>
-
+https://github.com/Underdarkshadow/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_editCharles.MP3
 
 # Projeto Podcast Gerado por I.A.s
 
